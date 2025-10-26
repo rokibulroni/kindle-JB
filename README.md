@@ -32,7 +32,7 @@
 * **ম্যাক ব্যবহারকারীদের জন্য কমান্ড:**
     * `find . -name 'details.html' -exec cp adbreak.html {} \;`
     * *যদি কাজ না করে:* `find ./.assets -name 'details.html' -exec cp adbreak.html {} \;`
-* **আপডেট ব্লকার (Block Updates Package):** [https://github.com/rokibulroni/Kindle-Filler-Disk/raw/refs/heads/main/renameotabin.zip](https://github.com/rokibulroni/Kindle-Filler-Disk/raw/refs/heads/main/renameotabin.zip)
+* **আপডেট ব্লকার (Block Updates Package):** [https://github.com/rokibulroni/kindle-JB/raw/refs/heads/main/mobileread-KUAL/renameotabin.zip](https://github.com/rokibulroni/kindle-JB/raw/refs/heads/main/mobileread-KUAL/renameotabin.zip)
 
 ---
 
