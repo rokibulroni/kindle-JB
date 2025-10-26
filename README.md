@@ -162,7 +162,12 @@
     * কাস্টম লক স্ক্রিন (আপনি যে বইটি পড়ছেন তার কভার, বা আপনার নিজের ডিজাইন করা ছবি)  
     * এটি ডিফল্ট অ্যাপের চেয়ে *ভালো* ব্যাটারি লাইফ দেয়  
 
-##  Watch Video: https://www.youtube.com/watch?v=kDp3DMQsx-I
+
+
+
+[![Watch the video](https://github.com/rokibulroni/kindle-JB/blob/main/6sigPg.gif?raw=true)](https://www.youtube.com/watch?v=kDp3DMQsx-I "Play on YouTube")
+
+
 
  
 **৩. অন্যান্য অ্যাপস:**
