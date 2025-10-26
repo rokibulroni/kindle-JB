@@ -34,6 +34,13 @@
     * *যদি কাজ না করে:* `find ./.assets -name 'details.html' -exec cp adbreak.html {} \;`
 * **আপডেট ব্লকার (Block Updates Package):** [https://github.com/rokibulroni/kindle-JB/raw/refs/heads/main/mobileread-KUAL/renameotabin.zip](https://github.com/rokibulroni/kindle-JB/raw/refs/heads/main/mobileread-KUAL/renameotabin.zip)
 * **Kindleforge App Store:** [https://github.com/rokibulroni/kindle-JB/releases/tag/v4.0.8](https://github.com/rokibulroni/kindle-JB/releases/tag/v4.0.8)
+
+> If you’re new to GitHub, just click on kindleforge.zip and it will download the files to drag into the documents folder on your kindle.
+
+* **Project Title for Koreader if you like how mine is setup:** [https://github.com/rokibulroni/kindle-JB/tree/main/ProjectTitle](https://github.com/rokibulroni/kindle-JB/tree/main/ProjectTitle)
+
+
+
 ---
 
 ### পর্ব ২: জেলব্রেক প্রক্রিয়া
