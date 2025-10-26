@@ -28,7 +28,7 @@
 
 **২. প্রয়োজনীয় রিসোর্স (Links):**
 * **প্রধান লিখিত গাইড (আবশ্যক):** [https://kindlemodding.org](https://kindlemodding.org)
-* **ফিলার ফাইলস (Filler Files):** [https://github.com/rokibulroni/Kindle-Filler-Disk/tree/main/MTP](https://github.com/rokibulroni/Kindle-Filler-Disk/tree/main/MTP)
+* **ফিলার ফাইলস (Filler Files):** [https://github.com/rokibulroni/kindle-JB/tree/main/Kindle-Filler-Disk/MTP](https://github.com/rokibulroni/kindle-JB/tree/main/Kindle-Filler-Disk/MTP)
 * **ম্যাক ব্যবহারকারীদের জন্য কমান্ড:**
     * `find . -name 'details.html' -exec cp adbreak.html {} \;`
     * *যদি কাজ না করে:* `find ./.assets -name 'details.html' -exec cp adbreak.html {} \;`
