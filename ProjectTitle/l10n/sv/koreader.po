@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"projecttitle/sv/>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+# covermenu.lua
+msgid "Library"
+msgstr "Bibliotek"
+
+# listmenu.lua
+msgid "Folders"
+msgstr "Mappar"
+
+msgid "Book"
+msgstr "Bok"
+
+# main.lua
+msgid "Project: Title"
+msgstr "Project: Title"
+
+msgid "Decrease Items Per Page"
+msgstr "Minska antalet objekt per sida"
+
+msgid "Increase Items Per Page"
+msgstr "Öka antalet objekt per sida"
+
+msgid "Cover List"
+msgstr "Omslagslista"
+
+msgid "Cover Grid"
+msgstr "Omslagsrutnät"
+
+msgid "Details List"
+msgstr "Detaljerad lista"
+
+msgid "Filenames List"
+msgstr "Filnamnslista"
+
+msgid "Project: Title settings"
+msgstr "Project: Title-inställningar"
+
+msgid "Portrait cover grid mode"
+msgstr "Omslagsrutnät i porträttläge"
+
+msgid "Landscape cover grid mode"
+msgstr "Omslagsrutnät i landskapsläge"
+
+msgid "List modes"
+msgstr "Listlägen"
+
+msgid "Folder display"
+msgstr "Mappvisning"
+
+msgid "Auto-generate cover images from books"
+msgstr "Autogenerera mappomslag från böcker"
+
+msgid "Overlay name and details in cover grid"
+msgstr "Visa namn och detaljer i omslagsrutnätet"
+
+msgid "Book display"
+msgstr "Bokvisning"
+
+msgid "Show series"
+msgstr "Visa serier"
+
+msgid "Show pages read instead of progress %"
+msgstr "Visa antalet lästa sidor i stället för %"
+
+msgid "Show file info instead of pages or progress %"
+msgstr "Visa filinformation i stället för läsprogression"
+
+msgid "Show progress % instead of progress bars"
+msgstr "Visa % i stället för förloppsstaplar"
+
+msgid "Always show maximum length progress bars"
+msgstr "Visa alltid förloppsstaplar med maximal längd "
+
+msgid "Use custom book status screen"
+msgstr "Använd anpassad bokstatusskärm"
+
+msgid "Footer"
+msgstr "Sidfot"
+
+msgid "Replace folder name with device info"
+msgstr "Ersätt mappnamn med enhetsinformation"
+
+msgid "Show page controls in left corner"
+msgstr "Visa sidkontroller i vänstra hörnet"
+
+msgid "Library mode"
+msgstr "Biblioteksläge"
+
+msgid "Show opened books first"
+msgstr "Visa öppnade böcker först"
+
+msgid "Cache database"
+msgstr "Cache-databas"
+
+msgid "Scan home folder for new books automatically"
+msgstr "Skanna hemmappen efter nya böcker automatiskt"
+
+msgid "Empty cache"
+msgstr "Rensa cache"
+
+msgid "Are you sure that you want to delete cover and metadata cache?"
+msgstr "Är du säker på att du vill radera omslag och metadata-cachen?"
+
+msgid "Cache emptied."
+msgstr "Cachen rensad"
+
+# bookinfomanager.lua
+msgid ""
+"This will extract metadata and cover images from books in the current "
+"directory.\n"
+"Once extraction has started, you can abort at any moment by tapping on the "
+"screen.\n"
+"\n"
+"This extraction may take time and use some battery power: you may wish to "
+"keep your device plugged in."
+msgstr ""
+"Detta kommer att extrahera metadata och omslagsbilder från böcker i den aktuella "
+"mappen.\n"
+"När extraheringen har startat kan du avbryta när som helst genom att trycka på "
+"skärmen.\n"
+"\n"
+"Denna extrahering kan ta tid och använda en del batteri: du kanske vill "
+"koppla in din enhet."
+
+msgid "Found %1 books.\nLooking for new books…"
+msgstr "Hittade %1 böcker.\nLetar efter nya böcker…"
+
+msgid "No new books found."
+msgstr "Inga nya böcker hittade."
+
+msgid "Do you want to stop?"
+msgstr "Vill du avbryta?"
+
+msgid "Continue Indexing"
+msgstr "Fortsätt indexera"
+
+msgid "Stop Indexing"
+msgstr "Avsluta indexering"
+
+msgid "Tap anywhere to stop"
+msgstr "Tryck var som helst för att avbryta"
